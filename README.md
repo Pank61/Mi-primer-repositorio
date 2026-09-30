@@ -1,2 +1,8 @@
 # Mi-primer-repositorio
-Yamil Alejandro Cuba Castillo,Iván Santiago Tapía Navarro,Panica Matias Alexis, Angel Gabriel Guardia Juchani
+
+
+# GRUPO7
+-PANICA MATIAS ALEXIS (LIDEL)
+-IVAN SANTIAGO TAPIA NAVARRO (DOLIDEL)
+-ANGEL GABRIEL GUARDIA JUCHAN
+-YAMIL ALEJANDRO CUBA CASTILLO
